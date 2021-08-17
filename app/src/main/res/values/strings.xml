@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BookMyTrip</string>
+    <string name="title_activity_maps">BookMyTrip</string>
+    <string name="google_maps_key" >AIzaSyBiNkPJCDaYqTp0cxHKwWFqxKcHDVyUww4</string>
+
+
+    <string name="currency" >Rs</string>
+
+
+
+    <string name="title_login">Login</string>
+    <string name="title_signup">Create Account</string>
+    <string name="title_home">Home</string>
+
+    <string name="title_recommended_places">Recommended places</string>
+    <string name="title_book_ticket">Book Ticket</string>
+    <string name="title_whether">Weather</string>
+    <string name="title_success_booking">Payment success</string>
+    <string name="title_bookings">Post Bookings</string>
+
+</resources>

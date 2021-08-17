@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@color/white"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <TextView
+        android:textStyle="bold"
+        android:lineSpacingExtra="2.6dp"
+        android:gravity="center_horizontal"
+        android:textColor="#0000ff"
+        android:textSize="24dp"
+        android:text="Ticket Booked \n Successfully"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"></TextView>
+
+    <Button
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/btn_goToHome"
+        android:textColor="@color/white"
+        android:textSize="16dp"
+        android:text="Go To Home"
+        android:textAllCaps="false"
+        android:layout_width="300dp"
+        android:layout_height="50dp"></Button>
+
+
+
+</RelativeLayout>
+
+<!--
+-->
